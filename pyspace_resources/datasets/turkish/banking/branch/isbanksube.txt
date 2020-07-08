@@ -1,0 +1,1250 @@
+						  4534  1.OSB/Konya
+						  6326  3.Organize Sanayi Bölgesi/Gaziantep
+						  3209  3.Sanayi/Denizli
+						  8306  3.Sanayi/Diyarbakır
+						  3489  4. Sanayi Sitesi/İzmir
+						  9201  59.Eğitim Tugay Komutanlığı/Erzincan
+						  4365  A.Ü. Cebeci Hastanesi/Ankara
+						  4364  A.Ü. İbn-i Sina Hastanesi/Ankara
+						  4301  Abant İzzet Baysal Üniversitesi/Bolu
+						  4232  Abidinpaşa/Ankara
+						  1085  Acıbadem/İstanbul
+						  3225  Acıpayam/Denizli
+						  6000  Adana
+						  6066  Adana Özel Bankacılık
+						  6070  Adana Ticari
+						  2000  Adapazarı/Sakarya
+						  8000  Adıyaman
+						  6129  Adliye/İskenderun
+						  6615  Adliye/Mersin
+						  3002  Adnan Menderes Bulvarı/Aydın
+						  6461  Afşin/Kahramanmaraş
+						  4000  Afyonkarahisar
+						  5314  Ağaç İşleri Sanayi Sitesi/Kayseri
+						  9000  Ağrı
+						  6237  Ahatlı/Antalya
+						  4157  Ahi Evran Caddesi-OSTİM/Ankara
+						  1210  AHL Serbest Bölge/İstanbul
+						  3529  Ahmetli/Manisa
+						  1120  Akatlar/İstanbul
+						  4201  Akay/Ankara
+						  7520  Akçaabat/Trabzon
+						  6715  Akçakale/Şanlıurfa
+						  4321  Akçakoca/Düzce
+						  3393  Akçay Caddesi/İzmir
+						  2113  Akçay-Edremit/Balıkesir
+						  5910  Akdağmadeni/Yozgat
+						  1130  Akdeniz Caddesi/İstanbul
+						  6215  Akdeniz Kurumsal/Antalya
+						  6209  Akdeniz Sanayi/Antalya
+						  6239  Akdeniz Üniversitesi Tıp Fakültesi/Antalya
+						  6202  Akdeniz Üniversitesi/Antalya
+						  6808  Akdoğan/K.K.T.C.
+						  3520  Akhisar/Manisa
+						  2101  Akıncılar/Balıkesir
+						  8602  Akpınar/Malatya
+						  5620  Aksaray
+						  1002  Aksaray/İstanbul
+						  6231  Aksu/Antalya
+						  4520  Akşehir/Konya
+						  1462  Akşemsettin/İstanbul
+						  7104  Akyazı/Ordu
+						  2010  Akyazı/Sakarya
+						  4194  Akyurt/Ankara
+						  5180  Alaca/Çorum
+						  4373  Alacaatlı Kavşağı-Çayyolu/Ankara
+						  3382  Alaçatı-Çeşme/İzmir
+						  6220  Alanya/Antalya
+						  7625  Alaplı/Zonguldak
+						  3521  Alaşehir/Manisa
+						  2401  Alemdar-İzmit/Kocaeli
+						  3475  Aliağa/İzmir
+						  1090  Alibeyköy/İstanbul
+						  3401  Alsancak/İzmir
+						  4233  Altındağ/Ankara
+						  3428  Altındağ/İzmir
+						  3033  Altınkum-Didim/Aydın
+						  2111  Altınoluk-Edremit/Balıkesir
+						  2119  Altınova/Balıkesir
+						  1157  Altıntepe/İstanbul
+						  2207  Altıparmak/Bursa
+						  1077  Altıyol/İstanbul
+						  1390  Altunizade Ticari/İstanbul
+						  1217  Altunizade/İstanbul
+						  7624  Amasra/Bartın
+						  5000  Amasya
+						  1460  Anadolu Adalet Sarayı/İstanbul
+						  4407  Anadolu Üniversitesi/Eskişehir
+						  1119  Anadoluhisarı/İstanbul
+						  6205  Anafartalar Caddesi/Antalya
+						  2302  Anafartalar/Çanakkale
+						  6622  Anamur/Mersin
+						  4200  Ankara
+						  4395  Ankara Ticari
+						  5312  Ankara Yolu/Kayseri
+						  6100  Antakya/Hatay
+						  6200  Antalya
+						  6299  Antalya Özel Bankacılık
+						  6225  Antalya Ticari
+						  7530  Araklı/Trabzon
+						  6813  Arasta-Lefkoşa/K.K.T.C.
+						  9520  Ardahan
+						  7210  Ardeşen/Rize
+						  1456  Arena Park AVM/İstanbul
+						  5315  Argıncık/Kayseri
+						  9110  Arhavi/Artvin
+						  9100  Artvin
+						  6212  Aspendos Bulvarı/Antalya
+						  4236  Aşağıayrancı/Ankara
+						  5501  Aşıkpaşa Bulvarı/Kırşehir
+						  3391  Atakent/İzmir
+						  1198  Ataköy 5. Kısım/İstanbul
+						  1132  Ataköy/İstanbul
+						  7305  Atakum/Samsun
+						  1487  Ataşehir Özel Bankacılık/İstanbul
+						  1226  Ataşehir/İstanbul
+						  3482  Ataşehir-Çiğli/İzmir
+						  6004  Atatürk Bulvarı/Adana
+						  8001  Atatürk Bulvarı/Adıyaman
+						  4411  Atatürk Bulvarı/Eskişehir
+						  6302  Atatürk Bulvarı/Gaziantep
+						  4603  Atatürk Bulvarı/Kütahya
+						  1526  Atatürk Bulvarı-Çorlu/Tekirdağ
+						  3623  Atatürk Bulvarı-Milas/Muğla
+						  6107  Atatürk Caddesi/Antakya
+						  1118  Atatürk Caddesi/İstanbul
+						  6032  Atatürk Caddesi/Osmaniye
+						  2118  Atatürk Caddesi-Bandırma/Balıkesir
+						  3532  Atatürk Caddesi-Salihli/Manisa
+						  1523  Atatürk Meydanı-Çorlu/Tekirdağ
+						  3367  Atatürk Organize Sanayi Bölgesi Ticari/İzmir
+						  3494  Atatürk Organize Sanayi Bölgesi/İzmir
+						  9303  Atatürk Üniversitesi/Erzurum
+						  3031  Atça/Aydın
+						  1472  Ateştuğla/İstanbul
+						  1446  Atışalanı/İstanbul
+						  1137  Atrium/İstanbul
+						  5421  Avanos/Nevşehir
+						  1380  Avcılar Ticari/İstanbul
+						  1133  Avcılar/İstanbul
+						  7421  Ayancık/Sinop
+						  1005  Ayaspaşa/İstanbul
+						  4374  Ayaş/Ankara
+						  3000  Aydın
+						  4202  Aydınlıkevler/Ankara
+						  3381  Ayrancılar-Torbalı/İzmir
+						  2330  Ayvacık/Çanakkale
+						  2120  Ayvalık/Balıkesir
+						  4376  Ayvalı-Keçiören/Ankara
+						  4514  Ayyıldız Caddesi-BÜSAN/Konya
+						  6406  Azerbaycan Bulvarı/Kahramanmaraş
+						  4501  Aziziye/Konya
+						  1422  Babaeski/Kırklareli
+						  6616  Babil Kavşağı-Mezitli/Mersin
+						  2402  Baç/Kocaeli
+						  7320  Bafra/Samsun
+						  1100  Bağcılar/İstanbul
+						  1348  Bağdat Caddesi Özel Bankacılık/İstanbul
+						  2417  Bağdat Caddesi-Gebze/Kocaeli
+						  4385  Bağdat Caddesi-OSTİM/Ankara
+						  1091  Bağlarbaşı/İstanbul
+						  5151  Bahabey Caddesi/Çorum
+						  4204  Bahçelievler/Ankara
+						  1081  Bahçelievler/İstanbul
+						  1274  Bahçeşehir/İstanbul
+						  1396  Bakırköy Ticari/İstanbul
+						  1123  Bakırköy/İstanbul
+						  3429  Balçova/İzmir
+						  4284  Balgat/Ankara
+						  2100  Balıkesir
+						  1135  Balmumcu/İstanbul
+						  3730  Banaz/Uşak
+						  2121  Bandırma/Balıkesir
+						  8321  Bankalar Caddesi/Batman
+						  6013  Baraj Yolu/Adana
+						  1366  Barbaros Caddesi-Yüzyıl/İstanbul
+						  6029  Barkal/Adana
+						  7622  Bartın
+						  3402  Basmane/İzmir
+						  1283  Başakşehir/İstanbul
+						  4399  Başkent Kurumsal/Ankara
+						  4398  Başkent Ticari/Ankara
+						  4299  Başkent/Ankara
+						  1295  Batı Ataşehir/İstanbul
+						  4267  Batıkent/Ankara
+						  8320  Batman
+						  9420  Bayburt
+						  4382  Bayındır Hastanesi-Söğütözü/Ankara
+						  3460  Bayındır/İzmir
+						  3430  Bayraklı/İzmir
+						  2310  Bayramiç/Çanakkale
+						  1387  Bayrampaşa Ticari/İstanbul
+						  1057  Bayrampaşa/İstanbul
+						  3202  Bayramyeri/Denizli
+						  1092  Bebek/İstanbul
+						  2405  Bekirpaşa/Kocaeli
+						  3204  Bereketli/Denizli
+						  3461  Bergama/İzmir
+						  8020  Besni/Adıyaman
+						  4219  Beşevler/Ankara
+						  2229  Beşevler/Bursa
+						  7524  Beşikdüzü/Trabzon
+						  1008  Beşiktaş/İstanbul
+						  7505  Beşirli/Trabzon
+						  8902  Beşyol/Van
+						  1121  Beşyüzevler/İstanbul
+						  1389  Beyazıt Ticari/İstanbul
+						  1009  Beyazıt/İstanbul
+						  8603  Beydağı/Malatya
+						  1245  Beykent/İstanbul
+						  6292  Beykent-Kumluca/Antalya
+						  1010  Beykoz/İstanbul
+						  1136  Beylerbeyi/İstanbul
+						  1284  Beylikdüzü/İstanbul
+						  4253  Beypazarı/Ankara
+						  4523  Beyşehir/Konya
+						  2320  Biga/Çanakkale
+						  2110  Bigadiç/Balıkesir
+						  4100  Bilecik
+						  4276  Bilkent/Ankara
+						  1303  Binevler/Edirne
+						  6315  Binevler/Gaziantep
+						  6404  Binevler/Kahramanmaraş
+						  8100  Bingöl
+						  6710  Birecik/Şanlıurfa
+						  4363  Birlik Mahallesi/Ankara
+						  8310  Bismil/Diyarbakır
+						  8200  Bitlis
+						  3610  Bodrum/Muğla
+						  5921  Boğazlıyan/Yozgat
+						  4300  Bolu
+						  4019  Bolvadin/Afyonkarahisar
+						  5621  Bor/Niğde
+						  9130  Borçka/Artvin
+						  3397  Bornova Ticari/İzmir
+						  3403  Bornova/İzmir
+						  1026  Bostancı/İstanbul
+						  3421  Bostanlı/İzmir
+						  7420  Boyabat/Sinop
+						  3010  Bozdoğan/Aydın
+						  4120  Bozüyük/Bilecik
+						  3389  Bozyaka/İzmir
+						  6619  Bozyazı/Mersin
+						  3404  Buca/İzmir
+						  3120  Bucak/Burdur
+						  7301  Buğdaypazarı/Samsun
+						  7030  Bulancak/Giresun
+						  3223  Buldan/Denizli
+						  4384  Bulvar-İvedik OSB/Ankara
+						  1419  Bulvar-Lüleburgaz/Kırklareli
+						  3100  Burdur
+						  2122  Burhaniye/Balıkesir
+						  2200  Bursa
+						  2199  Bursa Kurumsal
+						  2198  Bursa Ticari
+						  2214  Buttim/Bursa
+						  4505  BÜSAN/Konya
+						  1012  Büyükada/İstanbul
+						  1251  Büyükçekmece/İstanbul
+						  1013  Büyükdere-Sarıyer/İstanbul
+						  1468  Büyükşehir-Beylikdüzü/İstanbul
+						  1082  Caddebostan/İstanbul
+						  1095  Cağaloğlu/İstanbul
+						  4205  Cebeci/Ankara
+						  6006  Cemalpaşa/Adana
+						  1162  Cemil Topuzlu Caddesi/İstanbul
+						  1138  Cennet Mahallesi/İstanbul
+						  1202  Cerrahpaşa Tıp Fakültesi/İstanbul
+						  1240  Cevahir Alışveriş Merkezi/İstanbul
+						  1096  Cevizli/İstanbul
+						  4158  Cevizlidere/Ankara
+						  6020  Ceyhan/Adana
+						  5230  Cide/Kastamonu
+						  4550  Cihanbeyli/Konya
+						  1014  Cihangir/İstanbul
+						  6520  Cizre/Şırnak
+						  2249  Cumhuriyet Caddesi/Bursa
+						  6701  Cumhuriyet Caddesi/Şanlıurfa
+						  1454  Cumhuriyet Caddesi-Esenyurt/İstanbul
+						  6318  Cumhuriyet Mahallesi/Gaziantep
+						  1083  Çağlayan/İstanbul
+						  3230  Çal/Denizli
+						  2243  Çalı/Bursa
+						  6226  Çallı/Antalya
+						  3414  Çamdibi/İzmir
+						  3369  Çamkıran/İzmir
+						  1181  Çamlıca/İstanbul
+						  3203  Çamlık/Denizli
+						  2324  Çan/Çanakkale
+						  2300  Çanakkale
+						  3496  Çandarlı/İzmir
+						  4238  Çankaya/Ankara
+						  5100  Çankırı
+						  2006  Çark Caddesi/Sakarya
+						  7321  Çarşamba/Samsun
+						  8401  Çarşı/Elazığ
+						  4590  Çarşı/Karaman
+						  6501  Çarşı/Mardin
+						  6702  Çarşı/Şanlıurfa
+						  6222  Çarşı-Alanya/Antalya
+						  1268  Çarşı-Avcılar/İstanbul
+						  1291  Çarşı-Bağcılar/İstanbul
+						  1006  Çarşı-Bakırköy/İstanbul
+						  3611  Çarşı-Bodrum/Muğla
+						  4536  Çarşı-Ereğli/Konya
+						  1483  Çarşı-Esenyurt/İstanbul
+						  6811  Çarşı-Girne/K.K.T.C.
+						  1383  Çarşı-Güneşli Ticari/İstanbul
+						  1230  Çarşı-Güneşli/İstanbul
+						  1282  Çarşı-Hadımköy/İstanbul
+						  1187  Çarşı-Kadıköy/İstanbul
+						  6511  Çarşı-Kızıltepe/Mardin
+						  3032  Çarşı-Kuşadası/Aydın
+						  3642  Çarşı-Marmaris/Muğla
+						  1189  Çarşı-Sefaköy/İstanbul
+						  4391  Çarşı-Sincan/Ankara
+						  1267  Çarşı-Sultanbeyli/İstanbul
+						  1250  Çatalca/İstanbul
+						  7630  Çaycuma/Zonguldak
+						  7220  Çayeli/Rize
+						  5930  Çayıralan/Yozgat
+						  2427  Çayırova/Kocaeli
+						  4266  Çayyolu/Ankara
+						  2208  Çekirge/Bursa
+						  1236  Çekmeköy/İstanbul
+						  1368  Çeliktepe/İstanbul
+						  1097  Çengelköy/İstanbul
+						  5111  Çerkeş/Çankırı
+						  1540  Çerkezköy/Tekirdağ
+						  3469  Çeşme/İzmir
+						  4269  Çetin Emeç Bulvarı/Ankara
+						  2114  Çevreyolu-Edremit/Balıkesir
+						  4225  Çıkrıkçılar/Ankara
+						  7302  Çiftlik/Samsun
+						  1457  Çiftlik-Bağcılar/İstanbul
+						  2509  Çiftlikköy/Yalova
+						  3431  Çiğli/İzmir
+						  3020  Çine/Aydın
+						  3221  Çivril/Denizli
+						  1520  Çorlu/Tekirdağ
+						  5150  Çorum
+						  4270  Çubuk/Ankara
+						  4379  Çukurambar/Ankara
+						  6010  Çukurova Üniversitesi/Adana
+						  1122  Çukurpazar/İstanbul
+						  4552  Çumra/Konya
+						  8501  Dağ ve Komando Tugay Komutanlığı/Hakkari
+						  3631  Dalaman/Muğla
+						  3632  Dalyan/Muğla
+						  2425  Darıca/Kocaeli
+						  3660  Datça/Muğla
+						  3030  Davutlar/Aydın
+						  1149  Davutpaşa Sanayi Sitesi/İstanbul
+						  2415  Değirmendere/Kocaeli
+						  7503  Değirmendere/Trabzon
+						  3201  Delikliçınar/Denizli
+						  4237  Demetevler/Ankara
+						  3522  Demirci/Manisa
+						  1150  Demirciler Sitesi/İstanbul
+						  2218  Demirtaş Organize Sanayi Bölgesi/Bursa
+						  3004  Demokrasi Meydanı-Söke/Aydın
+						  6291  Demre/Antalya
+						  3200  Denizli
+						  3233  Denizli Ticari
+						  2403  Derince/Kocaeli
+						  5415  Derinkuyu/Nevşehir
+						  1353  DES Sanayi Sitesi/İstanbul
+						  5330  Develi/Kayseri
+						  7623  Devrek/Zonguldak
+						  4368  Dışişleri Bakanlığı/Ankara
+						  4206  Dışkapı/Ankara
+						  8304  Diclekent/Diyarbakır
+						  3029  Didim/Aydın
+						  3466  Dikili/İzmir
+						  1161  Dikilitaş/İstanbul
+						  2242  Dikkaldırım/Bursa
+						  4248  Dikmen/Ankara
+						  2428  Dilovası/Kocaeli
+						  4021  Dinar/Afyonkarahisar
+						  8300  Diyarbakır
+						  8383  Diyarbakır Ticari
+						  8631  Doğanşehir/Malatya
+						  5319  Doğu Sanayi/Kayseri
+						  9020  Doğubayazıt/Ağrı
+						  1473  Doğupark-Bahçeşehir/İstanbul
+						  6214  Dokuma/Antalya
+						  3481  Dokuz Eylül Üniversitesi/İzmir
+						  3388  Dokuz Eylül Üniversitesi-Tınaztepe/İzmir
+						  1017  Dolapdere/İstanbul
+						  1163  Dolayoba/İstanbul
+						  1140  Dördüncü Levent/İstanbul
+						  6123  Dörtyol/Hatay
+						  8604  Dörtyol/Malatya
+						  3702  Dörtyol/Uşak
+						  6238  Döşemealtı/Antalya
+						  2235  Duaçınarı/Bursa
+						  1381  Dudullu Ticari/İstanbul
+						  1354  Dudullu/İstanbul
+						  1177  Dünya Ticaret Merkezi/İstanbul
+						  5302  Düvenönü/Kayseri
+						  4320  Düzce
+						  4322  Düzce E-5/Düzce
+						  6031  Düziçi/Osmaniye
+						  1300  Edirne
+						  2123  Edremit/Balıkesir
+						  3003  Efeler/Aydın
+						  3399  Ege Kurumsal/İzmir
+						  4155  Ege Mahallesi/Ankara
+						  3495  Ege Serbest Bölge/İzmir
+						  3499  Ege Üniversitesi/İzmir
+						  3310  Eğirdir/Isparta
+						  6613  Eğriçam/Mersin
+						  7201  Ekrem Orhon Mahallesi/Rize
+						  8400  Elazığ
+						  6420  Elbistan/Kahramanmaraş
+						  7308  Ellialtılar/Samsun
+						  4280  Elmadağ/Ankara
+						  6240  Elmalı/Antalya
+						  4386  Elvankent/Ankara
+						  4207  Emek/Ankara
+						  4022  Emirdağ/Afyonkarahisar
+						  1141  Emirgan/İstanbul
+						  4143  Emirler-Etimesgut/Ankara
+						  1522  Emlakkent-Çorlu/Tekirdağ
+						  6703  Emniyet Caddesi/Şanlıurfa
+						  5810  Erbaa/Tokat
+						  8920  Erciş/Van
+						  5308  Erciyes Üniversitesi/Kayseri
+						  2126  Erdek/Balıkesir
+						  6623  Erdemli/Mersin
+						  7620  Ereğli/Karadeniz
+						  4521  Ereğli/Konya
+						  1018  Erenköy/İstanbul
+						  2001  Erenler/Sakarya
+						  8330  Ergani/Diyarbakır
+						  1524  Ergene/Tekirdağ
+						  2247  Erikli/Bursa
+						  4528  Ermenek/Karaman
+						  4414  Ertaş Caddesi/Eskişehir
+						  2211  Ertuğrulgazi/Bursa
+						  4268  Eryaman/Ankara
+						  6126  Erzin/Hatay
+						  9200  Erzincan
+						  9300  Erzurum
+						  1479  Esenkent/İstanbul
+						  1098  Esenler/İstanbul
+						  1451  Esenyalı/İstanbul
+						  1247  Esenyurt/İstanbul
+						  4392  Esertepe/Ankara
+						  4409  Eskibağlar/Eskişehir
+						  4400  Eskişehir
+						  4440  Eskişehir Ticari
+						  3710  Eşme/Uşak
+						  3405  Eşrefpaşa/İzmir
+						  1480  Etiler Özel Bankacılık/İstanbul
+						  1067  Etiler/İstanbul
+						  4263  Etimesgut/Ankara
+						  4239  Etlik/Ankara
+						  1019  Eyüpsultan/İstanbul
+						  2322  Ezine/Çanakkale
+						  4240  Farabi/Ankara
+						  1234  Fatih Caddesi-Arnavutköy/İstanbul
+						  1020  Fatih/İstanbul
+						  7122  Fatsa/Ordu
+						  6262  Fener/Antalya
+						  1907  Fenerbahçe Özel Bankacılık/İstanbul
+						  1164  Feriköy/İstanbul
+						  3621  Fethiye/Muğla
+						  6360  Fevzi Çakmak Bulvarı/Gaziantep
+						  2201  Fevzi Çakmak/Bursa
+						  1068  Fındıkzade/İstanbul
+						  1099  Fikirtepe/İstanbul
+						  6260  Finike/Antalya
+						  1190  Firuzköy/İstanbul
+						  1276  Florya/İstanbul
+						  3472  Foça/İzmir
+						  1388  Galata Ticari/İstanbul
+						  1021  Galata/İstanbul
+						  1011  Galatasaray-Beyoğlu/İstanbul
+						  6308  Gatem/Gaziantep
+						  1080  Gayrettepe/İstanbul
+						  4286  Gazi Mahallesi/Ankara
+						  1445  Gazi Mahallesi/İstanbul
+						  7304  Gazi/Samsun
+						  6300  Gaziantep
+						  6363  Gaziantep Kurumsal
+						  3443  Gaziemir/İzmir
+						  6820  Gazimağusa/K.K.T.C.
+						  5802  Gaziosmanpaşa Üniversitesi/Tokat
+						  4241  Gaziosmanpaşa/Ankara
+						  1064  Gaziosmanpaşa/İstanbul
+						  6014  Gazipaşa Bulvarı/Adana
+						  6280  Gazipaşa/Antalya
+						  7603  Gazipaşa/Zonguldak
+						  2430  Gebze Kurumsal/Kocaeli
+						  2429  Gebze Organize Sanayi Bölgesi/Kocaeli
+						  2432  Gebze Oto Sanayi Sitesi/Kocaeli
+						  2440  Gebze Ticari/Kocaeli
+						  2420  Gebze/Kocaeli
+						  3386  Gediz Mahallesi-Buca/İzmir
+						  4620  Gediz/Kütahya
+						  3330  Gelendost/Isparta
+						  2321  Gelibolu/Çanakkale
+						  2220  Gemlik/Bursa
+						  4330  Gerede/Bolu
+						  7422  Gerze/Sinop
+						  2020  Geyve/Sakarya
+						  3456  Gıda Çarşısı/İzmir
+						  1273  Gıda Toptancıları Sitesi/İstanbul
+						  4297  Gimat/Ankara
+						  7000  Giresun
+						  3479  Girne Aksoy/İzmir
+						  6810  Girne/K.K.T.C.
+						  3616  Göcek/Muğla
+						  2323  Gökçeada/Çanakkale
+						  7626  Gökçebey/Zonguldak
+						  6431  Göksun/Kahramanmaraş
+						  1253  Göktürk/İstanbul
+						  8030  Gölbaşı/Adıyaman
+						  4298  Gölbaşı/Ankara
+						  2423  Gölcük/Kocaeli
+						  3130  Gölhisar/Burdur
+						  2127  Gönen/Balıkesir
+						  6804  Gönyeli/K.K.T.C.
+						  3528  Gördes/Manisa
+						  7021  Görele/Giresun
+						  2246  Görükle/Bursa
+						  1101  Göztepe/İstanbul
+						  3303  Gülkent/Isparta
+						  5440  Gülşehir/Nevşehir
+						  1069  Gültepe/İstanbul
+						  3492  Gümüldür/İzmir
+						  5010  Gümüşhacıköy/Amasya
+						  9400  Gümüşhane
+						  3208  Gümüşler/Denizli
+						  3424  Gündoğdu/İzmir
+						  1255  Güneşli Kurumsal/İstanbul
+						  1212  Güneşli/İstanbul
+						  1165  Güngören/İstanbul
+						  1485  Gürpınar/İstanbul
+						  2215  Gürsu/Bursa
+						  3491  Güzelbahçe/İzmir
+						  6236  Güzeloba/Antalya
+						  3406  Güzelyalı/İzmir
+						  6805  Güzelyurt/K.K.T.C.
+						  4145  Hacettepe Teknokent/Ankara
+						  5411  Hacıbektaş/Nevşehir
+						  1379  Hadımköy Ticari/İstanbul
+						  1224  Hadımköy Yolu-Esenyurt/İstanbul
+						  8500  Hakkari
+						  6015  Hal/Adana
+						  3207  Halk Caddesi/Denizli
+						  1484  Halkalı Meydan/İstanbul
+						  1249  Halkalı/İstanbul
+						  1486  Hamidiye-Kağıthane/İstanbul
+						  1001  Harbiye/İstanbul
+						  6705  Harran Üniversitesi/Şanlıurfa
+						  1166  Hasanpaşa/İstanbul
+						  4246  Hasköy/Ankara
+						  1102  Hasköy/İstanbul
+						  3407  Hatay/İzmir
+						  2125  Havran/Balıkesir
+						  1310  Havsa/Edirne
+						  7330  Havza/Samsun
+						  1530  Hayrabolu/Tekirdağ
+						  2021  Hendek/Sakarya
+						  2426  Hereke/Kocaeli
+						  1023  Heybeliada/İstanbul
+						  9120  Hopa/Artvin
+						  9320  Horasan/Erzurum
+						  4243  Hoşdere/Ankara
+						  2210  Hürriyet/Bursa
+						  1142  Hürriyet/İstanbul
+						  2409  Hürriyet-İzmit/Kocaeli
+						  4389  Hüseyin Gazi/Ankara
+						  3438  I. Sanayi Sitesi/İzmir
+						  9521  Iğdır
+						  1143  Ihlamur/İstanbul
+						  1232  Ihlamurkuyu-Ümraniye/İstanbul
+						  3478  II. Sanayi Sitesi/İzmir
+						  5120  Ilgaz/Çankırı
+						  4526  Ilgın/Konya
+						  3493  Ilıca-Çeşme/İzmir
+						  3300  Isparta
+						  3486  Işıkkent/İzmir
+						  6224  Işıklar/Antalya
+						  2418  İbrahimağa Caddesi-Gebze/Kocaeli
+						  6311  İbrahimli/Gaziantep
+						  1214  İçerenköy/İstanbul
+						  1362  İçmeler-Tuzla/İstanbul
+						  1186  İdealtepe/İstanbul
+						  1286  İkitelli Keresteciler Sitesi/İstanbul
+						  1372  İkitelli Organize Sanayi Bölgesi/İstanbul
+						  1278  İkitelli Sanayi/İstanbul
+						  1384  İkitelli Ticari/İstanbul
+						  5318  İldem/Kayseri
+						  6025  İmamoğlu/Adana
+						  1114  İMES Sanayi/İstanbul
+						  1363  İmsan Sanayi Sitesi/İstanbul
+						  4230  İncesu/Ankara
+						  3008  İncirliova/Aydın
+						  5222  İnebolu/Kastamonu
+						  2221  İnegöl/Bursa
+						  3622  İnönü Bulvarı-Fethiye/Muğla
+						  6314  İnönü Caddesi/Gaziantep
+						  7001  İnönü Caddesi/Giresun
+						  7551  İnönü Caddesi/Trabzon
+						  1266  İnönü Mahallesi-Küçükçekmece/İstanbul
+						  6323  İpekyolu Ticari/Gaziantep
+						  8903  İpekyolu/Van
+						  1340  İpsala/Edirne
+						  6809  İskele/K.K.T.C.
+						  6131  İskenderun Ticari/Hatay
+						  6120  İskenderun/Hatay
+						  5156  İskilip/Çorum
+						  6330  İslahiye/Gaziantep
+						  6612  İsmet İnönü Bulvarı/Mersin
+						  1299  İstanbul
+						  1459  İstanbul Adalet Sarayı
+						  1191  İstanbul Havalimanı
+						  1111  İstanbul Kurumsal
+						  1375  İstanbul Özel Bankacılık
+						  2431  İstasyon Caddesi-Gebze/Kocaeli
+						  1103  İstinye/İstanbul
+						  1225  İSTOÇ/İstanbul
+						  1287  İSTWEST/İstanbul
+						  4274  İvedik Organize Sanayi/Ankara
+						  3400  İzmir
+						  3374  İzmir Özel Bankacılık
+						  3398  İzmir Ticari
+						  2102  İzmir Yolu/Balıkesir
+						  2233  İzmir Yolu/Bursa
+						  2404  İzmit Sanayi/Kocaeli
+						  2399  İzmit Ticari/Kocaeli
+						  2400  İzmit/Kocaeli
+						  2225  İznik/Bursa
+						  2234  Jandarma Komutanlığı/Bursa
+						  1024  Kabataş/İstanbul
+						  4004  Kadınana/Afyonkarahisar
+						  6023  Kadirli/Osmaniye
+						  1144  Kağıthane/İstanbul
+						  9506  Kağızman/Kars
+						  4361  Kahramankazan/Ankara
+						  6400  Kahramanmaraş
+						  6401  Kahramanmaraş Ticari
+						  8010  Kahta/Adıyaman
+						  1168  Kalamış/İstanbul
+						  6276  Kalkan/Antalya
+						  5530  Kaman/Kırşehir
+						  6044  Kanalköprü/Adana
+						  2424  Kandıra/Kocaeli
+						  1235  Kanyon/İstanbul
+						  1541  Kapaklı/Tekirdağ
+						  1027  Kapalıçarşı/İstanbul
+						  3418  Karabağlar/İzmir
+						  7621  Karabük
+						  2222  Karacabey/Bursa
+						  4291  Karacakaya Caddesi/Ankara
+						  3040  Karacasu/Aydın
+						  3624  Karaçulha-Fethiye/Muğla
+						  7504  Karadeniz Teknik Üniversitesi/Trabzon
+						  1070  Karagümrük/İstanbul
+						  6706  Karaköprü/Şanlıurfa
+						  1028  Karaköy/İstanbul
+						  4522  Karaman
+						  2421  Karamürsel/Kocaeli
+						  4518  Karapınar/Konya
+						  2040  Karasu/Sakarya
+						  6312  Karataş/Gaziantep
+						  4503  Karatay Sanayi Sitesi/Konya
+						  9500  Kars
+						  3365  Karşıyaka Özel Bankacılık/İzmir
+						  6313  Karşıyaka/Gaziantep
+						  3470  Karşıyaka/İzmir
+						  1219  Kartal Sanayi Bölgesi/İstanbul
+						  1392  Kartal Ticari/İstanbul
+						  1029  Kartal/İstanbul
+						  1030  Kasımpaşa/İstanbul
+						  5200  Kastamonu
+						  6275  Kaş/Antalya
+						  7507  Kaşüstü-Yomra/Trabzon
+						  1279  Kavacık/İstanbul
+						  4235  Kavaklar/Ankara
+						  4380  Kavaklıdere Özel Bankacılık/Ankara
+						  4209  Kavaklıdere/Ankara
+						  6316  Kayaönü/Gaziantep
+						  8301  Kayapınar/Diyarbakır
+						  1469  Kayaşehir/İstanbul
+						  1169  Kaynarca/İstanbul
+						  5300  Kayseri
+						  5353  Kayseri Ticari
+						  4272  Kazım Karabekir/Ankara
+						  1031  Kazlıçeşme-Olivium/İstanbul
+						  4244  Keçiören/Ankara
+						  4378  Keklikpınarı/Ankara
+						  9430  Kelkit/Gümüşhane
+						  3471  Kemalpaşa/İzmir
+						  6265  Kemer/Antalya
+						  3416  Kemeraltı/İzmir
+						  1252  Kemerburgaz/İstanbul
+						  4152  Keresteciler Sitesi/Ankara
+						  4290  Keskin/Kırıkkale
+						  2216  Kestel/Bursa
+						  1323  Keşan/Edirne
+						  3480  Kınık/İzmir
+						  1208  Kıraç/İstanbul
+						  6228  Kırcami/Antalya
+						  6122  Kırıkhan/Hatay
+						  4250  Kırıkkale
+						  3523  Kırkağaç/Manisa
+						  1400  Kırklareli
+						  5500  Kırşehir
+						  1076  Kışla Caddesi-Rami/İstanbul
+						  4396  Kızılay Ticari/Ankara
+						  4214  Kızılay/Ankara
+						  4258  Kızılcahamam/Ankara
+						  5704  Kızılırmak/Sivas
+						  6510  Kızıltepe/Mardin
+						  1071  Kızıltoprak/İstanbul
+						  4273  Kızlarpınarı Caddesi/Ankara
+						  7615  Kilimli/Zonguldak
+						  6320  Kilis
+						  3487  Kipa-Balçova/İzmir
+						  3490  Kiraz/İzmir
+						  6602  Kiremithane/Mersin
+						  2407  Kocaeli Üniversitesi/Kocaeli
+						  1105  Kocamustafapaşa/İstanbul
+						  1285  Kocasinan/İstanbul
+						  5313  Kocasinan/Kayseri
+						  1145  Koçman Caddesi-Bağcılar/İstanbul
+						  2209  Koğukçınar/Bursa
+						  3612  Konacık-Bodrum/Muğla
+						  3408  Konak/İzmir
+						  6232  Konaklı-Alanya/Antalya
+						  4500  Konya
+						  4535  Konya OSB
+						  4545  Konya Ticari
+						  6213  Konyaaltı/Antalya
+						  3420  Kordon/İzmir
+						  6270  Korkuteli/Antalya
+						  1170  Koşuyolu/İstanbul
+						  4516  KOTTİM/Konya
+						  8411  Kovancılar/Elazığ
+						  6021  Kozan/Adana
+						  7627  Kozcağız/Bartın
+						  1256  Kozyatağı Kurumsal/İstanbul
+						  1386  Kozyatağı Ticari/İstanbul
+						  1206  Kozyatağı/İstanbul
+						  3531  Köprübaşı/Manisa
+						  1501  Köprübaşı/Tekirdağ
+						  2410  Körfez/Kocaeli
+						  4234  Köroğlu Caddesi/Ankara
+						  2416  Köseköy/Kocaeli
+						  5311  Köşk/Kayseri
+						  3630  Köyceğiz/Muğla
+						  3530  Kula/Manisa
+						  1078  Kuledibi/İstanbul
+						  4530  Kulu/Konya
+						  6290  Kumluca/Antalya
+						  1221  Kurtköy/İstanbul
+						  6026  Kurttepe/Adana
+						  1032  Kurtuluş/İstanbul
+						  6405  Kurtuluş/Kahramanmaraş
+						  6002  Kuruköprü/Adana
+						  3024  Kuşadası/Aydın
+						  7307  Kutlukent/Samsun
+						  6043  Küçük Sanayi Sitesi/Adana
+						  6109  Küçük Sanayi Sitesi/Antakya
+						  6403  Küçük Sanayi Sitesi/Kahramanmaraş
+						  6603  Küçük Sanayi Sitesi/Mersin
+						  8901  Küçük Sanayi Sitesi/Van
+						  1172  Küçükbakkalköy/İstanbul
+						  1104  Küçükçekmece/İstanbul
+						  4208  Küçükesat/Ankara
+						  4211  Küçükevler/Ankara
+						  6801  Küçükkaymaklı-Lefkoşa/K.K.T.C.
+						  1238  Küçükköy Sanayi Sitesi/İstanbul
+						  1086  Küçükköy/İstanbul
+						  1397  Küçüksu Caddesi-Ümraniye/İstanbul
+						  1034  Küçükyalı/İstanbul
+						  1237  Kültür Üniversitesi/İstanbul
+						  4600  Kütahya
+						  9301  Lalapaşa/Erzurum
+						  1084  Laleli/İstanbul
+						  2340  Lapseki/Çanakkale
+						  6203  Lara/Antalya
+						  6806  Lefke Avrupa Üniversitesi/K.K.T.C.
+						  6818  Lefkoşa/K.K.T.C.
+						  1035  Levent/İstanbul
+						  6235  Liman/Antalya
+						  6611  Liman/Mersin
+						  1420  Lüleburgaz/Kırklareli
+						  7519  Maçka/Trabzon
+						  6018  Mahfesığmaz/Adana
+						  1364  Mahmutbey Caddesi/İstanbul
+						  6221  Mahmutlar-Alanya/Antalya
+						  1036  Mahmutpaşa/İstanbul
+						  8600  Malatya
+						  8402  Malatya Yolu/Elazığ
+						  1521  Malkara/Tekirdağ
+						  1269  Maltepe E-5/İstanbul
+						  4212  Maltepe/Ankara
+						  1037  Maltepe/İstanbul
+						  1346  Maltepe-Topkapı/İstanbul
+						  4199  Mamak/Ankara
+						  6210  Manavgat/Antalya
+						  3387  Manavkuyu/İzmir
+						  3500  Manisa
+						  3534  Manisa Ticari
+						  3458  Mansuroğlu/İzmir
+						  2140  Manyas/Balıkesir
+						  6500  Mardin
+						  1265  Marmara Eğitim Köyü/İstanbul
+						  3640  Marmaris/Muğla
+						  1254  Maslak Kurumsal/İstanbul
+						  1399  Maslak Ticari/İstanbul
+						  1223  Maslak/İstanbul
+						  3485  Mavişehir/İzmir
+						  1089  Mecidiyeköy/İstanbul
+						  6217  Meltem/Antalya
+						  4601  Menderes Bulvarı/Kütahya
+						  4351  Menderes Caddesi/Kırıkkale
+						  3459  Menderes/İzmir
+						  3462  Menemen/İzmir
+						  4350  Mengen/Bolu
+						  4507  Meram/Konya
+						  1038  Mercan/İstanbul
+						  2238  Merinos/Bursa
+						  6600  Mersin
+						  6628  Mersin Tarsus Organize Sanayi Bölgesi/Mersin
+						  6666  Mersin Ticari
+						  6609  Mersin Üniversitesi/Mersin
+						  1184  Merter Tekstil Merkezi/İstanbul
+						  1156  Merter/İstanbul
+						  5020  Merzifon/Amasya
+						  3505  Mesir/Manisa
+						  4213  Meşrutiyet/Ankara
+						  6601  Metropol/Mersin
+						  4512  Mevlana/Konya
+						  5625  Meydan/Aksaray
+						  4302  Meydan/Bolu
+						  3506  Meydan-Akhisar/Manisa
+						  1347  Meydan-Bağcılar/İstanbul
+						  6625  Mezitli/Mersin
+						  6219  Mısır Çarşısı/Antalya
+						  6530  Midyat/Mardin
+						  3620  Milas/Muğla
+						  1449  Mimar Sinan-Çekmeköy/İstanbul
+						  1243  Mimaroba/İstanbul
+						  3368  Mithatpaşa Caddesi-Torbalı/İzmir
+						  4228  Mithatpaşa/Ankara
+						  3409  Mithatpaşa/İzmir
+						  6011  Mobilyacılar Sitesi/Adana
+						  1039  Moda/İstanbul
+						  1211  Modoko/İstanbul
+						  1203  Mozaik Çarşı-Ataşehir/İstanbul
+						  2230  Mudanya/Bursa
+						  3600  Muğla
+						  7501  Mumhane/Trabzon
+						  3507  Muradiye/Manisa
+						  1551  Muratlı/Tekirdağ
+						  6234  Muratpaşa/Antalya
+						  4371  Mustafa Kemal Mahallesi/Ankara
+						  2223  Mustafakemalpaşa/Bursa
+						  8800  Muş
+						  6630  Mut/Mersin
+						  4502  Nalçacı Caddesi/Konya
+						  4260  Nallıhan/Ankara
+						  3435  Narlıdere/İzmir
+						  4381  Nato Yolu Caddesi/Ankara
+						  1242  Nato Yolu/İstanbul
+						  3474  Nato/İzmir
+						  1209  Nautilus AVM/İstanbul
+						  3021  Nazilli/Aydın
+						  4222  Necatibey/Ankara
+						  4231  Nenehatun/Ankara
+						  3436  Nergis/İzmir
+						  5400  Nevşehir
+						  5600  Niğde
+						  5822  Niksar/Tokat
+						  2251  Nilüfer/Bursa
+						  1470  Nişantaşı Özel Bankacılık/İstanbul
+						  1040  Nişantaşı/İstanbul
+						  6321  Nizip/Gaziantep
+						  6325  Nurdağı/Gaziantep
+						  6550  Nusaybin/Mardin
+						  4383  Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü/Ankara
+						  4229  O.D.T.Ü./Ankara
+						  6822  O.D.T.Ü./K.K.T.C.
+						  4401  Odunpazarı/Eskişehir
+						  7522  Of/Trabzon
+						  8303  Ofis/Diyarbakır
+						  1367  Okmeydanı/İstanbul
+						  9351  Oltu/Erzurum
+						  4197  Oran/Ankara
+						  7100  Ordu
+						  6019  Organize Sanayi Bölgesi/Adana
+						  4002  Organize Sanayi Bölgesi/Afyonkarahisar
+						  4277  Organize Sanayi Bölgesi/Ankara
+						  6201  Organize Sanayi Bölgesi/Antalya
+						  2219  Organize Sanayi Bölgesi/Bursa
+						  6303  Organize Sanayi Bölgesi/Gaziantep
+						  3502  Organize Sanayi Bölgesi/Manisa
+						  4408  Organize Sanayi/Eskişehir
+						  5306  Organize Sanayi/Kayseri
+						  2240  Orhangazi/Bursa
+						  3650  Ortaca/Muğla
+						  3613  Ortakent-Bodrum/Muğla
+						  5622  Ortaköy/Aksaray
+						  1116  Ortaköy/İstanbul
+						  2248  OSB-İnegöl/Bursa
+						  1124  Osmanbey/İstanbul
+						  5170  Osmancık/Çorum
+						  4110  Osmaneli/Bilecik
+						  2434  Osmangazi-Darıca/Kocaeli
+						  6022  Osmaniye
+						  1146  Osmaniye/İstanbul
+						  4397  OSTİM Ticari/Ankara
+						  4259  Ostim/Ankara
+						  2228  Oto Sanatkarları Sitesi/Bursa
+						  1215  Otogar/İstanbul
+						  1107  Otosanayi/İstanbul
+						  3463  Ödemiş/İzmir
+						  1264  Örnek Mahallesi-Ataşehir/İstanbul
+						  4196  Öveçler/Ankara
+						  2241  Özlüce/Bursa
+						  1041  Pangaltı/İstanbul
+						  7502  Park/Trabzon
+						  1043  Paşabahçe/İstanbul
+						  9019  Patnos/Ağrı
+						  6124  Payas/Hatay
+						  7230  Pazar/Rize
+						  6450  Pazarcık/Kahramanmaraş
+						  6301  Pazaryeri/Gaziantep
+						  1044  Pendik/İstanbul
+						  1188  Perpa/İstanbul
+						  4159  Perpa-Polatlı/Ankara
+						  3484  Petrokimya-Aliağa/İzmir
+						  3450  Pınarbaşı/İzmir
+						  5310  Pınarbaşı/Kayseri
+						  1440  Pınarhisar/Kırklareli
+						  4251  Polatlı/Ankara
+						  4403  Porsuk/Eskişehir
+						  6050  Pozantı/Adana
+						  6606  Pozcu/Mersin
+						  4281  Pursaklar/Ankara
+						  1263  Radar-Yenibosna/İstanbul
+						  1139  Rahmanlar/İstanbul
+						  6028  Reşatbey/Adana
+						  6130  Reyhanlı/Hatay
+						  1394  Rıhtım-Kadıköy Ticari/İstanbul
+						  1025  Rıhtım-Kadıköy/İstanbul
+						  7200  Rize
+						  8002  Saat Kulesi/Adıyaman
+						  1229  Sabiha Gökçen Havaalanı/İstanbul
+						  7641  Safranbolu/Karabük
+						  5307  Sahabiye/Kayseri
+						  2002  Sakarya Üniversitesi/Sakarya
+						  6821  Salamis Yolu-Gazimağusa/K.K.T.C.
+						  3524  Salihli/Manisa
+						  3232  Saltak Caddesi/Denizli
+						  6140  Samandağ/Hatay
+						  1233  Samandıra/İstanbul
+						  4215  Samanpazarı/Ankara
+						  7300  Samsun
+						  7373  Samsun Ticari
+						  4287  Sanatoryum Caddesi/Ankara
+						  2212  Sanayi Sitesi/Bursa
+						  6307  Sanayi Sitesi/Gaziantep
+						  3301  Sanayi Sitesi/Isparta
+						  8601  Sanayi Sitesi/Malatya
+						  5401  Sanayi Sitesi/Nevşehir
+						  2005  Sanayi Sitesi/Sakarya
+						  7306  Sanayi Sitesi/Samsun
+						  6233  Sanayi Sitesi-Manavgat/Antalya
+						  1239  Sanayi Sitesi-Ümraniye/İstanbul
+						  6206  Sanayi/Antalya
+						  3001  Sanayi/Aydın
+						  5152  Sanayi/Çorum
+						  3205  Sanayi/Denizli
+						  9305  Sanayi/Erzurum
+						  4412  Sanayi/Eskişehir
+						  5301  Sanayi/Kayseri
+						  3504  Sanayi/Manisa
+						  3028  Sanayi/Nazilli
+						  5801  Sanayi/Tokat
+						  1297  Sanayi-Güngören/İstanbul
+						  2239  Sanayi-İnegöl/Bursa
+						  6132  Sanayi-İskenderun/Hatay
+						  3533  Sanayi-Turgutlu/Manisa
+						  1292  Sancaktepe/İstanbul
+						  4023  Sandıklı/Afyonkarahisar
+						  2205  Santralgaraj/Bursa
+						  2070  Sapanca/Sakarya
+						  1580  Saray/Tekirdağ
+						  3222  Sarayköy/Denizli
+						  6012  Sarıçam/Adana
+						  3570  Sarıgöl/Manisa
+						  9522  Sarıkamış/Kars
+						  5960  Sarıkaya/Yozgat
+						  1046  Sarıyer/İstanbul
+						  3527  Saruhanlı/Manisa
+						  2501  Sefabey/Yalova
+						  1395  Sefaköy Ticari/İstanbul
+						  1073  Sefaköy/İstanbul
+						  3476  Seferihisar/İzmir
+						  1108  Selamiçeşme/İstanbul
+						  4513  Selçuk Üniversitesi/Konya
+						  3467  Selçuk/İzmir
+						  4542  Selçuklu Ticari/Konya
+						  4515  Selçuklu/Konya
+						  6229  Selekler/Antalya
+						  1126  Selimiye/İstanbul
+						  1258  Selimpaşa/İstanbul
+						  2003  Serdivan/Sakarya
+						  6230  Serik/Antalya
+						  3226  Serinhisar/Denizli
+						  2203  Setbaşı/Bursa
+						  4533  Seydişehir/Konya
+						  6041  Seyhan/Adana
+						  4292  Seyranbağları/Ankara
+						  1351  Seyrantepe/İstanbul
+						  4416  Sıhhiye Meydanı/Eskişehir
+						  2128  Sındırgı/Balıkesir
+						  1173  Sıracevizler/İstanbul
+						  6223  Side Bulvarı/Antalya
+						  6211  Side/Antalya
+						  8700  Siirt
+						  6620  Silifke/Mersin
+						  1489  Silivri E-5/İstanbul
+						  1260  Silivri/İstanbul
+						  6470  Silopi/Şırnak
+						  8359  Silvan/Diyarbakır
+						  4621  Simav/Kütahya
+						  4282  Sincan/Ankara
+						  7400  Sinop
+						  1047  Sirkeci/İstanbul
+						  4221  Siteler/Ankara
+						  1465  Siteler-İkitelli/İstanbul
+						  5700  Sivas
+						  5304  Sivas Caddesi/Kayseri
+						  3740  Sivaslı/Uşak
+						  6720  Siverek/Şanlıurfa
+						  1175  Sofular-Fatih/İstanbul
+						  6045  Sofulu/Adana
+						  1262  Soğanlı Mahallesi-Bahçelievler/İstanbul
+						  1147  Soğanlık-Kartal/İstanbul
+						  3526  Soma/Manisa
+						  5940  Sorgun/Yozgat
+						  4150  Söğüt/Bilecik
+						  3022  Söke/Aydın
+						  6322  Stadyum/Gaziantep
+						  3498  Stadyum-Buca/İzmir
+						  2433  Stadyum-Gebze/Kocaeli
+						  1176  Suadiye/İstanbul
+						  6304  Suburcu/Gaziantep
+						  1275  Sultanbeyli/İstanbul
+						  1193  Sultangazi/İstanbul
+						  1048  Sultanhamam/İstanbul
+						  5050  Suluova/Amasya
+						  5160  Sungurlu/Çorum
+						  8302  Suriçi/Diyarbakır
+						  2124  Susurluk/Balıkesir
+						  5750  Suşehri/Sivas
+						  6101  Sümerler/Hatay
+						  7523  Sürmene/Trabzon
+						  1482  Sütçü İmam Caddesi/İstanbul
+						  6700  Şanlıurfa
+						  8307  Şanlıurfa Bulvarı/Diyarbakır
+						  6207  Şarampol/Antalya
+						  5770  Şarkışla/Sivas
+						  3370  Şarkikaraağaç/Isparta
+						  1590  Şarköy/Tekirdağ
+						  1066  Şaşkınbakkal/İstanbul
+						  4262  Şaşmaz/Ankara
+						  7060  Şebinkarahisar/Giresun
+						  5950  Şefaatli/Yozgat
+						  6306  Şehitkamil/Gaziantep
+						  6319  Şehreküstü/Gaziantep
+						  1049  Şehremini/İstanbul
+						  3437  Şemikler/İzmir
+						  1148  Şenesenevler/İstanbul
+						  4390  Şentepe/Ankara
+						  4252  Şereflikoçhisar/Ankara
+						  1359  Şerifali-Ümraniye/İstanbul
+						  6464  Şırnak
+						  1290  Şile/İstanbul
+						  1106  Şirinevler/İstanbul
+						  3419  Şirinyer/İzmir
+						  1398  Şişli Ticari/İstanbul
+						  1051  Şişli/İstanbul
+						  4275  T.R.T. Sitesi-Başkent/Ankara
+						  1065  Tahtakale/İstanbul
+						  1052  Taksim/İstanbul
+						  5316  Talas/Kayseri
+						  1261  Tarabya/İstanbul
+						  6621  Tarsus/Mersin
+						  1248  Taşdelen-Çekmeköy/İstanbul
+						  6807  Taşkınköy/K.K.T.C.
+						  5220  Taşköprü/Kastamonu
+						  1134  Taşköprü-Beşyüzevler/İstanbul
+						  5060  Taşova/Amasya
+						  6624  Taşucu/Mersin
+						  8230  Tatvan/Bitlis
+						  3224  Tavas/Denizli
+						  4622  Tavşanlı/Kütahya
+						  1500  Tekirdağ
+						  4370  Teknokent/Ankara
+						  1442  Tekstilkent/İstanbul
+						  1178  Telsiz Mahallesi/İstanbul
+						  1127  Tepeüstü/İstanbul
+						  1369  Terazidere/İstanbul
+						  7360  Terme/Samsun
+						  1074  Teşvikiye/İstanbul
+						  3464  Tire/İzmir
+						  7020  Tirebolu/Giresun
+						  4375  TOBB/Ankara
+						  2232  TOFAŞ/Bursa
+						  5800  Tokat
+						  1129  Topçular/İstanbul
+						  1194  Topkapı Sanayi Sitesi/İstanbul
+						  4227  Topraklık/Ankara
+						  3005  Toptan Gıda Çarşısı/Aydın
+						  6216  Toptancı Hali/Antalya
+						  4216  Toptancıhali/Ankara
+						  5705  Toptancılar Sitesi/Sivas
+						  3465  Torbalı/İzmir
+						  6016  Toros/Adana
+						  6605  Toroslar/Mersin
+						  5221  Tosya/Kastamonu
+						  7500  Trabzon
+						  7575  Trabzon Ticari
+						  1525  Trakya Ticari/Tekirdağ
+						  1301  Trakya Üniversitesi/Edirne
+						  9600  Tunceli
+						  3525  Turgutlu/Manisa
+						  3615  Turgutreis/Bodrum
+						  5821  Turhal/Tokat
+						  6261  Turunçova/Antalya
+						  1490  TUTOM/İstanbul
+						  1271  Tuzla Deri Sanayi/İstanbul
+						  1244  Tuzla OSB/İstanbul
+						  1272  Tuzla Tersane/İstanbul
+						  1476  Tuzla Ticari/İstanbul
+						  1270  Tuzla/İstanbul
+						  1195  Tüccarbaşı/İstanbul
+						  7410  Türkeli/Sinop
+						  6047  Türkmenbaşı/Adana
+						  4393  Ufuktepe/Ankara
+						  3385  Ulucak-Kemalpaşa OSB/İzmir
+						  6121  Ulucami/İskenderun
+						  2213  Uludağ Üniversitesi/Bursa
+						  4415  Uluönder/Eskişehir
+						  7650  Ulus/Bartın
+						  1228  Ulus/İstanbul
+						  2202  Uluyol/Bursa
+						  6227  Uncalı/Antalya
+						  1058  Unkapanı/İstanbul
+						  6607  Uray/Mersin
+						  3468  Urla/İzmir
+						  3700  Uşak
+						  1355  Uydukent-Kurtköy/İstanbul
+						  6108  Uzunçarşı/Antakya
+						  1322  Uzunköprü/Edirne
+						  2237  Üçevler/Bursa
+						  3425  Üçkuyular/İzmir
+						  3426  Üçyol/İzmir
+						  1349  Üçyüzlü/İstanbul
+						  4144  Ümitköy Özel Bankacılık/Ankara
+						  4278  Ümitköy/Ankara
+						  1382  Ümraniye Ticari/İstanbul
+						  1060  Ümraniye/İstanbul
+						  1227  Ünilever/İstanbul
+						  1293  Ünilever-Sancaktepe/İstanbul
+						  7121  Ünye/Ordu
+						  5420  Ürgüp/Nevşehir
+						  1059  Üsküdar/İstanbul
+						  7521  Vakfıkebir/Trabzon
+						  1179  Valikonağı Caddesi/İstanbul
+						  8900  Van
+						  8905  Van Ticari
+						  7370  Vezirköprü/Samsun
+						  1455  Viaport AVM/İstanbul
+						  6740  Viranşehir/Şanlıurfa
+						  1421  Vize/Kırklareli
+						  1444  Yabancı Sermayeli Şirketler/İstanbul
+						  6003  Yağcamii/Adana
+						  2411  Yahyakaptan/Kocaeli
+						  5381  Yahyalı/Kayseri
+						  1207  Yakacık/İstanbul
+						  6812  Yakın Doğu Üniversitesi/K.K.T.C.
+						  1477  Yakuplu/İstanbul
+						  3614  Yalıkavak/Bodrum
+						  2500  Yalova
+						  2231  Yalova Yolu/Bursa
+						  3320  Yalvaç/Isparta
+						  6629  Yarenlik-Tarsus/Mersin
+						  6125  Yarıkkaya/İskenderun
+						  2422  Yarımca/Kocaeli
+						  4193  Yaşamkent/Ankara
+						  3690  Yatağan/Muğla
+						  1196  Yayla/İstanbul
+						  1458  Yeditepe Üniversitesi/İstanbul
+						  1222  Yedpa/İstanbul
+						  5624  Yeni Sanayi Sitesi/Aksaray
+						  2131  Yeni Sanayi Sitesi/Balıkesir
+						  5305  Yeni Sanayi Sitesi/Kayseri
+						  4510  Yeni Toptancılar Sitesi/Konya
+						  1117  Yenibosna/İstanbul
+						  1000  Yenicami/İstanbul
+						  2009  Yenicami/Sakarya
+						  7628  Yenice/Karabük
+						  4551  Yeniceoba/Konya
+						  1443  Yenidoğan/İstanbul
+						  3413  Yenigün/İzmir
+						  6608  Yenihal/Mersin
+						  1151  Yeniköy/İstanbul
+						  3427  Yeniliman/İzmir
+						  4217  Yenimahalle/Ankara
+						  1374  Yenimahalle/İstanbul
+						  7103  Yenimahalle/Ordu
+						  6627  Yenimahalle/Tarsus
+						  4141  Yenişehir Özel Bankacılık/Ankara
+						  4218  Yenişehir/Ankara
+						  2224  Yenişehir/Bursa
+						  3411  Yenişehir/İzmir
+						  2204  Yeniyol/Bursa
+						  5920  Yerköy/Yozgat
+						  1128  Yeşilköy/İstanbul
+						  3376  Yeşilova/İzmir
+						  1289  Yeşilpınar/İstanbul
+						  4220  Yeşiltepe/Ankara
+						  1153  Yeşiltepe/İstanbul
+						  1201  Yeşilyurt Özel Bankacılık/İstanbul
+						  1088  Yeşilyurt/İstanbul
+						  3447  Yeşilyurt/İzmir
+						  3383  Yıkıkkemer-Buca/İzmir
+						  2206  Yıldırım/Bursa
+						  1199  Yıldız Teknik Üniversitesi-Beşiktaş/İstanbul
+						  1377  Yıldız Teknik Üniversitesi-Davutpaşa/İstanbul
+						  4394  Yıldız Ticari/Ankara
+						  4279  Yıldız/Ankara
+						  5900  Yozgat
+						  1231  Yukarı Acıbadem/İstanbul
+						  4245  Yukarıayrancı/Ankara
+						  4560  Yunak/Konya
+						  9160  Yusufeli/Artvin
+						  8510  Yüksekova/Hakkari
+						  6001  Yüreğir/Adana
+						  4504  Zafer Sanayi/Konya
+						  4509  Zafer/Konya
+						  5780  Zara/Sivas
+						  1361  Zekeriyaköy/İstanbul
+						  1062  Zeytinburnu/İstanbul
+						  5820  Zile/Tokat
+						  1393  Zincirlikuyu Ticari/İstanbul
+						  1154  Zincirlikuyu/İstanbul
+						  1155  Ziverbey/İstanbul
+						  3433  Ziya Gökalp Bulvarı/İzmir
+						  7600  Zonguldak
+						  1467  Zümrütevler/İstanbul
